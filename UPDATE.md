@@ -5,5 +5,6 @@
 ## Chapter 10
 
 # Learning Ethereum and Solidity: Developer's Guide
-## chapter 32 (Contract Deployment)
+## Section 2
+### Chapter 39 Testing Archtecture 
 
