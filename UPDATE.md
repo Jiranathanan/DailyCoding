@@ -10,3 +10,5 @@
 
 # Learning R Data Visualization
 ## learn barplots
+
+## Read the book Storytelling with data
