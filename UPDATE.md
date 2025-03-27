@@ -12,3 +12,4 @@
 ## learn barplots
 
 ## Read the book Storytelling with data
+## Read Digital Marketing
