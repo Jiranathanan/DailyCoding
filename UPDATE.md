@@ -16,3 +16,5 @@
 
 ### Earthquake!!
 ### Cheat day !
+
+### ggplot2 exercises
