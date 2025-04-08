@@ -19,3 +19,5 @@
 
 ### ggplot2 exercises
 ### Data Visualization Project
+### Do exercises
+
