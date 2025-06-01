@@ -28,4 +28,7 @@
 ### Setup Sourcetree
 ### Update code
 ### Learn more about Sourcetree
+
 ### Learn Python, Sql and Tableau Integration
+#### - Software Integration
+#####  -- 0201. Properties and Definitions Data, Servers, Clients, Requests and REsponses
