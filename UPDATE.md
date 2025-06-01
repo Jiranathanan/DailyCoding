@@ -28,3 +28,4 @@
 ### Setup Sourcetree
 ### Update code
 ### Learn more about Sourcetree
+### Learn Python, Sql and Tableau Integration
