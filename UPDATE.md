@@ -34,4 +34,5 @@
 #####  -- 0201. Properties and Definitions Data, Servers, Clients, Requests and REsponses
 #####  -- 0202. Properties and Definitions Data Connectivity, APIs and Endpoints
 #####  -- 0203. Further Details on APIs
-#####  -- 0205. Text Files as Means of Communication
+#####  -- 0204. Text Files as Means of Communication
+#####  -- 0205. Definitions and Applications
