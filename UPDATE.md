@@ -36,3 +36,4 @@
 #####  -- 0203. Further Details on APIs
 #####  -- 0204. Text Files as Means of Communication
 #####  -- 0205. Definitions and Applications
+#####  -- 0306. Install sklearn
