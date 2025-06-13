@@ -42,3 +42,4 @@
 #####  -- Backend Engineering fundamental
 #####  -- Android Compose / text composables
 #####  -- Android Compose / Align and arrange the text
+#####  -- Add Opensea metadata standards
