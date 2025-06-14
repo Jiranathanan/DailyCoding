@@ -16,3 +16,4 @@ pyenv exec pip install --user pipx
 pyenv exec pipx ensurepath -- force
 
 pipx install poetry
+poetry new djangocourse
