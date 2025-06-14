@@ -12,3 +12,7 @@ Run pyenv install -l to check a list of Python verison support by pyenv-win
 Run pyenv install <version> to install the supported version
 Run pyenv global <version> to set s Python version as the global version
 
+pyenv exec pip install --user pipx
+pyenv exec pipx ensurepath -- force
+
+pipx install poetry
