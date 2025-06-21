@@ -44,3 +44,4 @@
 #####  -- Android Compose / Align and arrange the text
 #####  -- Add Opensea metadata standards
 #####  -- Cross-Site Request Forgery
+#####  -- Django Template
