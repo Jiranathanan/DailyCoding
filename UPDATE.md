@@ -47,3 +47,5 @@
 #####  -- Django Template
 #####  -- Learn n8n and Ai engineering
 #####  -- Excel Data Visualization
+#####  -- Learn Docker
+#####  -- Learn Notion
