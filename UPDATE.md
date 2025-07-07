@@ -50,3 +50,4 @@
 #####  -- Learn Docker
 #####  -- Learn Notion
 #####  -- Create custom AI
+#####  -- Install Docker desktop
