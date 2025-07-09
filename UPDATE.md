@@ -51,3 +51,4 @@
 #####  -- Learn Notion
 #####  -- Create custom AI
 #####  -- Install Docker desktop
+#####  -- Learn Programming with AI by OREILLY
