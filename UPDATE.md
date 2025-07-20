@@ -54,3 +54,4 @@
 #####  -- Learn Programming with AI by OREILLY
 #####  -- Django authentication and social-sign on with django-allauth
 #####  -- Notion database
+#####  -- Trello update
