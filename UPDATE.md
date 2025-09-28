@@ -56,3 +56,4 @@
 #####  -- Notion database
 #####  -- Trello update
 #####  -- Game Genre Research
+#####  -- Create Project outline and mockup images
