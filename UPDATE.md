@@ -57,3 +57,4 @@
 #####  -- Trello update
 #####  -- Game Genre Research
 #####  -- Create Project outline and mockup images
+#####  -- Finding benchmark and brainstorm
